@@ -16,11 +16,11 @@ MonoBehaviour:
   lastSaveFormat: 0
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
-  section: 8
-  subSection: 5
-  tabIndex: -1
-  scrollY: 2356.92
-  foldoutLimit: 'Loot Dialogue 0: Simple'
+  section: 3
+  subSection: 6
+  tabIndex: 0
+  scrollY: 0
+  foldoutLimit: Unity UI
   helpDrag: 220
   subSectionDrag: 250
   tabListDrag: 250
@@ -36,6 +36,12 @@ MonoBehaviour:
   updateScenes: 0
   sceneUpdate: 
   schematicAsset:
+  - {fileID: 11400000, guid: 5449072cf0e996a44a131f21b108bff2, type: 2}
+  - {fileID: 11400000, guid: 321762c1fca584a4898a8252287ed691, type: 2}
+  - {fileID: 11400000, guid: 6a7581e16bf237444a8d9d5ab6cf2c05, type: 2}
+  - {fileID: 11400000, guid: fab0ca9dd0b9d434d99bab6dc4399453, type: 2}
+  - {fileID: 11400000, guid: 5d81f6b2303a1b04196b4ddb4e81b492, type: 2}
+  - {fileID: 11400000, guid: 21e70ab95bd77414b8bee730d23bf574, type: 2}
   - {fileID: 11400000, guid: e3a54d2108be77e45823a59faef9dada, type: 2}
   - {fileID: 11400000, guid: 53614fa904b7a374480892629b831824, type: 2}
   dialogueImportSettings:
@@ -49,6 +55,8 @@ MonoBehaviour:
   variablesEditor: []
   variablesSchematic:
   - ui
+  - battleScene
+  - wait
   variablesScene: []
   variablesPrefab: []
   foldoutKeys: []
