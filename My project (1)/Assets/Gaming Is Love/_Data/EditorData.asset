@@ -16,11 +16,11 @@ MonoBehaviour:
   lastSaveFormat: 0
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
-  section: 3
-  subSection: 6
+  section: 6
+  subSection: 10
   tabIndex: 0
-  scrollY: 0
-  foldoutLimit: Unity UI
+  scrollY: 738
+  foldoutLimit: 
   helpDrag: 220
   subSectionDrag: 250
   tabListDrag: 250
@@ -36,6 +36,11 @@ MonoBehaviour:
   updateScenes: 0
   sceneUpdate: 
   schematicAsset:
+  - {fileID: 11400000, guid: db1d3c0e7c7a1504086315b44eb03133, type: 2}
+  - {fileID: 11400000, guid: b9fe249c282165447b1d4b32294f6dce, type: 2}
+  - {fileID: 11400000, guid: f9ba52aa7dedcf543aa889d2eec8f34f, type: 2}
+  - {fileID: 11400000, guid: 08e647648b40cc54384bfcce0f3b1047, type: 2}
+  - {fileID: 11400000, guid: 01210faaa516d4245a8b6ad60db1648a, type: 2}
   - {fileID: 11400000, guid: 5449072cf0e996a44a131f21b108bff2, type: 2}
   - {fileID: 11400000, guid: 321762c1fca584a4898a8252287ed691, type: 2}
   - {fileID: 11400000, guid: 6a7581e16bf237444a8d9d5ab6cf2c05, type: 2}
@@ -57,6 +62,7 @@ MonoBehaviour:
   - ui
   - battleScene
   - wait
+  - counter
   variablesScene: []
   variablesPrefab: []
   foldoutKeys: []
